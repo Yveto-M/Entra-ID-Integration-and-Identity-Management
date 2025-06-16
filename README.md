@@ -50,7 +50,8 @@ A company wants to integrate its web app with Entra ID for authentication, manag
 
 📸 *Enterprise App Users Assignment*
 
----
+<img width="789" alt="enterprise app users" src="https://github.com/user-attachments/assets/db7da793-d919-4927-85cf-62d733fbd016" />
+
 
 ### 4. Configure Conditional Access
 
