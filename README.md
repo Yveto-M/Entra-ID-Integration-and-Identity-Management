@@ -4,7 +4,7 @@
 
 ## 💼 Scenario
 
-A company wants to integrate their web app with Entra ID for authentication, manage user and group roles, enforce conditional access policies, and enable MFA for added security.
+A company wants to integrate its web app with Entra ID for authentication, managing user and group roles, enforcing conditional access policies, and enabling MFA for added security.
 
 ---
 
@@ -17,7 +17,11 @@ A company wants to integrate their web app with Entra ID for authentication, man
 * Navigated to **Groups > Create Group** and added users to the group.
 
 📸 *Screenshot: Entra ID User List*
+
+<img width="694" alt="group creation" src="https://github.com/user-attachments/assets/91b6b638-daa2-45cb-b4c7-f10117f48ddc" />
+
 📸 *Screenshot: Group with Members*
+<img width="761" alt="group members" src="https://github.com/user-attachments/assets/58e99580-2804-4649-af35-ab439e9aa877" />
 
 ---
 
@@ -29,8 +33,13 @@ A company wants to integrate their web app with Entra ID for authentication, man
 * Created a **Client Secret** under **Certificates & Secrets**.
 
 📸 *Screenshot: App Registration Overview*
+<img width="795" alt="registered web app" src="https://github.com/user-attachments/assets/a0219e5b-bf14-4369-ab54-f67a87567c25" />
+
 📸 *Screenshot: API Permissions*
+<img width="784" alt="user read perm" src="https://github.com/user-attachments/assets/1249d90f-2e0a-4261-8c2c-2b7fce41640e" />
+
 📸 *Screenshot: Client Secret*
+<img width="779" alt="cert secret" src="https://github.com/user-attachments/assets/a2eabb7f-ba5f-4831-8219-c998f4fda660" />
 
 ---
 
@@ -51,6 +60,7 @@ A company wants to integrate their web app with Entra ID for authentication, man
 * Enabled the policy and tested login flow.
 
 📸 *Screenshot: Conditional Access Policy Overview*
+<img width="780" alt="creating con access" src="https://github.com/user-attachments/assets/b74b3f45-01eb-4018-b52b-f18b9e9fabb3" />
 
 ---
 
@@ -61,6 +71,7 @@ A company wants to integrate their web app with Entra ID for authentication, man
 * Tested sign-in process to ensure MFA prompts triggered.
 
 📸 *Screenshot: MFA Configuration Panel*
+<img width="781" alt="enabled mfa" src="https://github.com/user-attachments/assets/7562729a-851a-45f8-859c-dfc35f104186" />
 
 ---
 
@@ -70,6 +81,7 @@ A company wants to integrate their web app with Entra ID for authentication, man
 * Reviewed sign-in logs for success/failure insights.
 
 📸 *Screenshot: Sign-In Logs Dashboard*
+<img width="638" alt="moniter sign-in" src="https://github.com/user-attachments/assets/a57e4afe-c9ed-4289-9fd1-b863af23cb21" />
 
 ---
 
