@@ -56,13 +56,14 @@ A company wants to integrate its web app with Entra ID for authentication, manag
 ### 4. Configure Conditional Access
 
 * Navigated to **Entra ID > Security > Conditional Access > New Policy**.
-* Created a policy requiring MFA for all users.
+* Implemented a policy requiring multi-factor authentication (MFA) for all users.
 * Applied conditions (e.g., location-based access).
-* Enabled the policy and tested login flow.
+* Enabled the policy and tested the login flow.
 
 📸 *Conditional Access Policy Overview*
 <img width="780" alt="creating con access" src="https://github.com/user-attachments/assets/b74b3f45-01eb-4018-b52b-f18b9e9fabb3" />
 
+** CANNOT BE DONE WITH A STUDENT ACCOUNT, UNLESS ENTRA ID IS PURCHASED**  
 ---
 
 ### 5. Enable Multi-Factor Authentication (MFA)
